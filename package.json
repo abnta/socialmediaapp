@@ -1,0 +1,19 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "making social media application",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js"
+  },
+  "author": "mera naam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
