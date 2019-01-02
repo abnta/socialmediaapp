@@ -1,3 +1,49 @@
-#header {
-    margin-top : 75px
+#homepage{
+    margin-top: 75px;
+    text-align: center;
+}
+
+.btn-facebook{
+    background-color:#4aa1f3;
+    border-radius: 0%;
+    color: #fff;
+    width: auto;
+}
+.btn-facebook:link,
+.btn-facebook:visited,
+.btn-facebook:hover{
+    text-decoration: none;
+    background-color:#4aa1f3;
+    color:#fff
+}
+
+.btn-gplus{
+    background-color:#e44b34;
+    border-radius: 0%;
+    color: #fff;
+}
+.btn-glus:link,
+.btn-gplus:visited,
+.btn-gplus:hover{
+    text-decoration: none;
+    background-color:#e44b34;
+    color:#fff;
+    width: auto;
+}
+
+.btn-insagram{
+    background-color:rgb(195, 42, 163);
+    border-radius: 0%;
+    color: #fff;
+    width: auto;
+}
+.btn-instagram:link,
+.btn-insagram:visited,
+.btn-instagram:hover{
+    text-decoration: none;
+    background-color:rgb(195, 42, 163);
+    color:#fff;
+}
+.headDiv{
+    margin-top:75px
 }
